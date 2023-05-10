@@ -11,8 +11,6 @@ _Project description: A brief description of your project, its purpose, and main
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -24,12 +22,23 @@ Make sure you have the following installed on your system:
 
 - [Node.js](https://nodejs.org/en/download/) (version >= 18.0.0)
 - [npm](https://www.npmjs.com/get-npm) (version >= 9.0.0)
+- Create an API key at [YH Finance](https://www.financeapi.net/dashboard)
 
 ### Installation
 
 1. Clone the repository
-2. ```sh cd Stock-Market-App```
-3. ```sh npm install```
-4. ```sh npm start```
+
+2. ```sh 
+   cd Stock-Market-App
+   ```
+3. Create a .env file and add the parameter REACT_APP_API_KEY=<Your API KEY>
+  
+4. ```sh 
+   npm install
+   ```
+  
+5. ```sh 
+   npm start
+   ```
 
 
