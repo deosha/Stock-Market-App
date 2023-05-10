@@ -41,6 +41,6 @@ Make sure you have the following installed on your system:
    npm start
    ```
   
-6. As it is a sttaic website, please check deployment-script to host on S3. 
+6. As it is a static website, please check deployment-script to host on AWS S3. 
 
 
