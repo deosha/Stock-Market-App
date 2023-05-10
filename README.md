@@ -42,5 +42,8 @@ Make sure you have the following installed on your system:
    ```
   
 6. As it is a static website, please check deployment-script to host on AWS S3. 
+  
+  <img width="1101" alt="Screenshot 2023-05-10 at 3 31 22 PM" src="https://github.com/deosha/Stock-Market-App/assets/19653576/5caed8fc-c7e0-4b80-ac2f-029dfad87866">
+
 
 
