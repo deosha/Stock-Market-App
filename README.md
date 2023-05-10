@@ -11,9 +11,6 @@ _Project description: A brief description of your project, its purpose, and main
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,8 +28,8 @@ Make sure you have the following installed on your system:
 ### Installation
 
 1. Clone the repository
-2. ```sh cd Stock-Market-App
-3. ```sh npm install
-4. ```sh npm start
+2. ```sh cd Stock-Market-App```
+3. ```sh npm install```
+4. ```sh npm start```
 
 
